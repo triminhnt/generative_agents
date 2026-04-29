@@ -6,6 +6,7 @@
 - **1.2. GA TF-IDF Plagiarism Checker**
 - **1.3. TF-IDF Check Plagiarism**
 - **1.4. TF-IDF Text Retrieval**
+- **1.5. Email Spam Detection**
 ---
 ## 📌 2. Longformer
 
