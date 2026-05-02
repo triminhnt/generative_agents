@@ -12,14 +12,19 @@
 
 - **2.1. POS Tagging**
 ---
-## 📌 3. Longformer
+## 📌 3. ABSA
 
-- **3.1. Fine-tune Longformer**
-- **3.2. Longformer QA**
-- **3.3. Longformer CUAD**
+- **3.1. ATSC**
+- **3.2. ATE**
 ---
-## 📌 4. AE - VAE
+## 📌 4. Longformer
 
-- **4.1. Auto Encoder MNIST**
-- **4.2. VAE BCE PyTorch**
-- **4.3. VAE Fashion MNIST**
+- **4.1. Fine-tune Longformer**
+- **4.2. Longformer QA**
+- **4.3. Longformer CUAD**
+---
+## 📌 5. AE - VAE
+
+- **5.1. Auto Encoder MNIST**
+- **5.2. VAE BCE PyTorch**
+- **5.3. VAE Fashion MNIST**
