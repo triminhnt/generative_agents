@@ -8,8 +8,18 @@
 - **1.4. TF-IDF Text Retrieval**
 - **1.5. Email Spam Detection**
 ---
-## 📌 2. Longformer
+## 📌 2. POS Tagging
 
-- **2.1. Fine-tune Longformer**
-- **2.2. Longformer QA**
-- **2.3. Longformer CUAD**
+- **2.1. POS Tagging**
+---
+## 📌 3. Longformer
+
+- **3.1. Fine-tune Longformer**
+- **3.2. Longformer QA**
+- **3.3. Longformer CUAD**
+---
+## 📌 4. AE - VAE
+
+- **4.1. Auto Encoder MNIST**
+- **4.2. VAE BCE PyTorch**
+- **4.3. VAE Fashion MNIST**
